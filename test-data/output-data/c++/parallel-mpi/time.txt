@@ -1,0 +1,29 @@
+output-50.txt
+Time(microseconds): 300
+
+output-100.txt
+Time(microseconds): 700
+
+output-250.txt
+Time(microseconds): 7000
+
+output-500.txt
+Time(microseconds): 22000
+
+output-750.txt
+Time(microseconds): 36000
+
+output-1000.txt
+Time(microseconds): 64250
+
+output-2500.txt
+Time(microseconds): 381150
+
+output-5000.txt
+Time(microseconds): 1745100
+
+output-7500.txt
+Time(microseconds): 2340950
+
+output-10000.txt
+Time(microseconds): 2800500
